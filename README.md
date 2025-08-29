@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 Hi, I’m a Computer Science Engineering student specializing in Artificial Intelligence at NIIT University, Rajasthan. I’m passionate about building innovative AI solutions, designing intuitive web applications, and blending creativity with technology. My work spans from developing deep learning models for real-world problems to crafting smooth, modern user experiences in web development.<br><br>
 
 
