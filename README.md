@@ -1,6 +1,6 @@
 <!--- You can change the banner image link to something you like — a custom header, a coding-themed background, etc. — by replacing the URL below. -->
 <p align="center">
-  <img src="https://your-image-url-here.com/banner.png" alt="banner" width="100%" />
+  <img src="[https://your-image-url-here.com/banner.png" alt="banner" width="100%](https://github.com/nameadarsh/nameadarsh/blob/main/banner1.gif)" />
 </p>
 
 # 💫 About Me:
