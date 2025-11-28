@@ -14,8 +14,8 @@ My work spans from developing deep learning models for real-world problems to cr
 
 ## 💻 Tech Stack
 
-### 🧠 AI / ML Engineer Stack
-<div align="center">
+### AI / ML Engineer Stack
+<div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/opencv-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -25,8 +25,8 @@ My work spans from developing deep learning models for real-world problems to cr
   <img src="https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=000000"/>
 </div>
 
-### 🌐 Full-Stack Web Developer Stack
-<div align="center">
+### Full-Stack Web Developer Stack
+<div>
   <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -37,7 +37,7 @@ My work spans from developing deep learning models for real-world problems to cr
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-### 🏗 Backend & APIs
+### Backend & APIs
 <div align="center">
   <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -48,8 +48,8 @@ My work spans from developing deep learning models for real-world problems to cr
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </div>
 
-### 🔧 DevOps & Tools
-<div align="center">
+### DevOps & Tools
+<div>
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
@@ -60,8 +60,8 @@ My work spans from developing deep learning models for real-world problems to cr
   <img src="https://img.shields.io/badge/jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
-### 🎨 Creator & Design Suite
-<div align="center">
+### Creator & Design Suite
+<div>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
