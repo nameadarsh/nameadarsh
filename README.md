@@ -14,7 +14,7 @@ My work spans from developing deep learning models for real-world problems to cr
 
 ## 💻 Tech Stack
 
-### AI / ML Engineer Stack
+### AI / ML
 <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -25,7 +25,7 @@ My work spans from developing deep learning models for real-world problems to cr
   <img src="https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=000000"/>
 </div>
 
-### Full-Stack Web Developer Stack
+### Full-Stack Web Development
 <div>
   <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
