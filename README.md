@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/nameadarsh/nameadarsh/main/banner1.gif" alt="banner" width="100%" />
 </p>
 
-<h1 align="center" style="font-size: 2.4em;">💫 About Me</h1>
+<h1 style="font-size: 2.4em;">💫 About Me</h1>
 
 <div align="center" style="font-size: 1.08rem; line-height: 1.6;">
 Hi, I’m a Computer Science Engineering student specializing in Artificial Intelligence at NIIT University, Rajasthan.
@@ -71,19 +71,4 @@ My work spans from developing deep learning models for real-world problems to cr
   <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/premiere_pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 </div>
-
-
-📌 Plant Disease Detection
-AI model that identifies crop diseases using leaf images.
-Tech: Python, PyTorch, FastAPI, React
-
-[Live Demo](#) | [Source Code](#)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/someuser/someuser/main/gradientline.gif" width="100%">
-</p>
-
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,react" />
-
 
