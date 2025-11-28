@@ -38,7 +38,7 @@ My work spans from developing deep learning models for real-world problems to cr
 </div>
 
 ### Backend & APIs
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB"/>
@@ -71,3 +71,19 @@ My work spans from developing deep learning models for real-world problems to cr
   <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/premiere_pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 </div>
+
+
+📌 Plant Disease Detection
+AI model that identifies crop diseases using leaf images.
+Tech: Python, PyTorch, FastAPI, React
+
+[Live Demo](#) | [Source Code](#)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/someuser/someuser/main/gradientline.gif" width="100%">
+</p>
+
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,react" />
+
+
