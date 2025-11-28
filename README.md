@@ -14,7 +14,7 @@ My work spans from developing deep learning models for real-world problems to cr
 
 ## 💻 Tech Stack
 
-### AI / ML
+### AI / ML Development
 <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
