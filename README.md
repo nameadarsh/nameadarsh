@@ -2,71 +2,65 @@
   <img src="https://raw.githubusercontent.com/nameadarsh/nameadarsh/main/banner1.gif" alt="banner" width="100%" />
 </p>
 
-# 💫 About Me:
-<div align="center">
-Hi, I’m a Computer Science Engineering student specializing in Artificial Intelligence at NIIT University, Rajasthan. I’m passionate about building innovative AI solutions, designing intuitive web applications, and blending creativity with technology. My work spans from developing deep learning models for real-world problems to crafting smooth, modern user experiences in web development.
+<h1 style="font-size: 2.3em; margin-bottom: 0.3em;">💫 About Me</h1>
+
+<div align="center" style="font-size: 1.05rem; line-height: 1.6;">
+  Hi, I’m a Computer Science Engineering student specializing in Artificial Intelligence at NIIT University, Rajasthan. I’m passionate about building innovative AI solutions, designing intuitive web applications, and blending creativity with technology. My work spans from developing deep learning models for real-world problems to crafting smooth, modern user experiences in web development.
 </div>
+
 <br>
 
-## 💻 Tech Stack
+<h2 style="font-size: 2em; margin-bottom: 0.4em;">💻 Tech Stack</h2>
 
-### 🧠 AI & Machine Learning
+### 🧠 AI / ML Engineer Stack
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/opencv-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=000"/>
+  <img src="https://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </div>
 
-### 🎨 Frontend Development
+### 🌐 Full-Stack Web Dev Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/react_native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</div>
+
+<h3>🧩 Languages & Core</h3>
+<div align="center" style="background:#111111; padding:10px; border-radius:10px;">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
-### ⚙️ Backend & Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<h3>🧱 Frontend UI</h3>
+<div align="center" style="background:#111111; padding:10px; border-radius:10px;">
+  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
-### 🛠️ DevOps & Tools
+
+### 🐍 Python Ecosystem
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,numpy,pandas&perline=6" />
+</div>
+
+### ⚛️ JavaScript / TypeScript Ecosystem
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs&perline=6" />
+</div>
+
+
+### ⭐ Primary Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+</div>
+
+### 🚀 Currently Exploring
 <div align="center">
   <img src="https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github_actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </div>
-
-### 🎭 UI/UX & Creative Suite
-<div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/after_effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/premiere_pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-</div>
-
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,react,nodejs&theme=dark">
